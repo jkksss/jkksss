@@ -1,4 +1,4 @@
-# 👋 Joko Roman — Portfolio
+# Joko Roman — Portfolio
 
 > BS Information Technology Student | Davao Del Norte State College
 
@@ -12,7 +12,7 @@ I'm a first-year IT student at Davao Del Norte State College (2025–2026), base
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Java, HTML, CSS
 - **Tools:** Microsoft Office, Canva, SQLite, Apache Maven
@@ -20,7 +20,7 @@ I'm a first-year IT student at Davao Del Norte State College (2025–2026), base
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### ReFinder — Recipe Finder System
 A Java desktop application that reduces food waste by matching kitchen inventory with a recipe database using the **Rabin-Karp string matching algorithm**.
@@ -47,7 +47,7 @@ A complete, role-based web management system for the DepEd Panabo City Division 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Data Encoder** — LGU Panabo, CSWDO / OSCA
 - Encoded, verified, and organized data for senior citizens and PWDs
